@@ -31,7 +31,7 @@ The OGR was designed as a perfect companion to the [OGR](../ogr).
 * 1× Badge – 6063 Aluminium
 * 1× Solder PCB – Black FR4 with green solder mask
 * 1× EVA plate foam
-* 4× [AKB Bumpons](../akb-repo/feet) – Injection molded silicone
+* 4× [AKB Bumpons](https://github.com/akb-repos/feet) – Injection molded silicone
 * 1× Bottom sticker
 * 1× Split cable grommet
 * 4× Torx button screw M3 x 6mm in A2 stainless steel (plate)
